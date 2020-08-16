@@ -1,4 +1,4 @@
-# Note-Application
+# Notes-Application
 
 ## Author
 
